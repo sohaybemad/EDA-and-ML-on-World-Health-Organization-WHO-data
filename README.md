@@ -2,7 +2,7 @@
 ## Description:
 ### Main steps of the project:
 ### Explore the data: 
-In this project we will explore The data was collected from World Health Organization (WHO). The data-set related to life expectancy with health factors for 193 countries 
+* In this project we will explore The data was collected from World Health Organization (WHO). The data-set related to life expectancy with health factors for 193 countries 
 ### data preprocessing: 
 * 1) Choose only needed columns
 * 2) Handling mising values 
@@ -21,5 +21,5 @@ Questions asked:
   
  
 ### Applying different ML models to predict the Life Expectancy:
-models used: Lasso, Ridge , DecisionTree, SVR, and Xgboost
-we used the pipeline and GridSearch for hyper parameter tuning the choose the best model to predict our target variable (Life_expectancy)
+* models used: Lasso, Ridge , DecisionTree, SVR, and Xgboost
+* we used the pipeline and GridSearch for hyper parameter tuning the choose the best model to predict our target variable (Life_expectancy)
