@@ -1,5 +1,6 @@
 # EDA-and-ML-on-World-Health-Organization-WHO-data
 ## Description:
+### Main steps of the project:
 ### Explore the data: 
 In this project we will explore The data was collected from World Health Organization (WHO). The data-set related to life expectancy with health factors for 193 countries 
 ### data preprocessing: 
