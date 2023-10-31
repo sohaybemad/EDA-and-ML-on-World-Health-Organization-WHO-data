@@ -1,8 +1,8 @@
 # EDA-and-ML-on-World-Health-Organization-WHO-data
 ## Description:
-In this project we will explore The data was collected from World Health Organization (WHO).
-The data-set related to life expectancy with health factors for 193 countries 
-### then we will make data preprocessing: \
+### Explore the data: \
+In this project we will explore The data was collected from World Health Organization (WHO). The data-set related to life expectancy with health factors for 193 countries 
+### data preprocessing: \
 * 1) Choose only needed columns
 * 2) Handling mising values 
 * 3) Handling outliers
@@ -19,4 +19,5 @@ Questions asked:
 *  how the life expectancy change over years
   
  
-* Apply different ML models to predict the Life Expectancy
+### Applying different ML models to predict the Life Expectancy:\
+models used: Lasso, Ridge , DecisionTree, SVR, and Xgboost
